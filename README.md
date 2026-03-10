@@ -1,12 +1,6 @@
 # Blocus Chatroom beta-2.0.6-nightly
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=Blocus-org_blocus-chatroom&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=Blocus-org_blocus-chatroom)<br>
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=Blocus-org_blocus-chatroom&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=Blocus-org_blocus-chatroom)
-[![Security Rating](https://sonarcloud.io/api/project_badges/measure?project=Blocus-org_blocus-chatroom&metric=security_rating)](https://sonarcloud.io/summary/new_code?id=Blocus-org_blocus-chatroom)
-[![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=Blocus-org_blocus-chatroom&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=Blocus-org_blocus-chatroom)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=Blocus-org_blocus-chatroom&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=Blocus-org_blocus-chatroom)
-[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=Blocus-org_blocus-chatroom&metric=bugs)](https://sonarcloud.io/summary/new_code?id=Blocus-org_blocus-chatroom)
-[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=Blocus-org_blocus-chatroom&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=Blocus-org_blocus-chatroom)
-
+Blocus Chatroom – Official repository
+Previously hosted at: github.com/Blocus-org/blocus-chatroom
 <div align='center'>
     <img src='preview.png'>
 </div>
@@ -23,7 +17,6 @@ Instant server side encrypted messaging app with HTML/CSS JavaScript and PHP: Ma
 - Easy config on an apache/PHP/MySQL webserver
 
 - Even more coming soon (Contacts, persistant area, proxies, etc)
-
 
 ## Thanks to contributors
 
