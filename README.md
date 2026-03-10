@@ -1,5 +1,5 @@
 # Blocus Chatroom beta-2.0.6-nightly
-Blocus Chatroom – Official repository
+Blocus Chatroom – Official repository.<br>
 Previously hosted at: github.com/Blocus-org/blocus-chatroom
 <div align='center'>
     <img src='preview.png'>
